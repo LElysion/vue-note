@@ -1,0 +1,8 @@
+ul,li{ padding: 0;margin: 0; }
+ul li{ text-decoration: none; }
+p,html,body{ padding: 0; margin: 0; }
+body { background: #e8e8e8; }
+.btn1{ display: block; text-decoration: none; font-size: 24px; color: #fff; background: #4fc08d; 
+  width:40px; height: 40px; border-radius: 50%;line-height: 40px; text-align: center; }
+.fade-enter-active, .fade-leave-active {transition: opacity .5s}
+.fade-enter, .fade-leave-to /* .fade-leave-active in below version 2.1.8 */ {opacity: 0}
